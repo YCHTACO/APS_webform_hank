@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HankTeam_webform", "HankTeam_webform\", "{201FFA8E-97C3-47FD-BD40-FE5CD2EBB1E1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_7214"
+		Debug.AspNetCompiler.PhysicalPath = "HankTeam_webform\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_7214\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_7214"
+		Release.AspNetCompiler.PhysicalPath = "HankTeam_webform\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_7214\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "7214"
+		SlnRelativePath = "HankTeam_webform\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201FFA8E-97C3-47FD-BD40-FE5CD2EBB1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201FFA8E-97C3-47FD-BD40-FE5CD2EBB1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2280031C-6D3C-48C3-8D80-75655BAC6A05}
+	EndGlobalSection
+EndGlobal

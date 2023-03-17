@@ -1,0 +1,15 @@
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeFile="index-test.aspx.cs" Inherits="_Default" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+   <form action="/formprocess.php" method="post">
+    <div class="hank-team">
+        
+            <h1>姓名:<input type="text" name="name"></h1>
+            <h1>年齡:<input type="text" name="age"></h1>
+            <h1>生日:<input type="date" name="birthday"></h1>
+            <asp:Button ID="Button1" runat="server" Text="建立帳號" />
+        
+    </div>
+    </form>
+</asp:Content>
+
